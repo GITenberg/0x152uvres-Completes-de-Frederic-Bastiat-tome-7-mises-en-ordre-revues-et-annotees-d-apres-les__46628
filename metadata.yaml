@@ -1,4 +1,5 @@
 _repo: 0x152uvres-Completes-de-Frederic-Bastiat-tome-7-mises-en-ordre-revues-et-annotees-d-apres-les__46628
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -7,9 +8,7 @@ contributor:
       url: http://www.gutenberg.org/2009/agents/37640
 covers:
 - cover_type: archival
-  image_path: 46628/46628-h/images/cover-page.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46628-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Bastiat, Frédéric
@@ -22,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6395
     wikipedia: http://en.wikipedia.org/wiki/Frédéric_Bastiat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46628#0x152uvres-Completes-de-Frederic-Bastiat-tome-7-mises-en-ordre-revues-et-annotees-d-apres-les_
 gutenberg_bookshelf:
 - FR Politique
 - FR Sciences et Techniques
